@@ -22,6 +22,9 @@ contributor:
     birthdate: 1882
     gutenberg_agent_id: '37763'
     url: http://www.gutenberg.org/2009/agents/37763
+covers:
+- cover_type: archival
+  image_path: 69482-h/images/cover.jpg
 creator:
   author:
     agent_name: Diaz, Abby Morton
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2166
     wikipedia: https://en.wikipedia.org/wiki/Abby_Morton_Diaz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69482#The-cats-Arabian-nights-or-King-Grimalkum
 gutenberg_issued: '2022-12-06'
 identifiers:
   gutenberg: '69482'
